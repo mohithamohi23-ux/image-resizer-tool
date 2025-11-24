@@ -27,7 +27,7 @@ image_resizer_tool/
 
 
 
-## 🧠 What I Learned from This Task
+## 🧠 What I Learnt
 
 During this task, I learned:
 
